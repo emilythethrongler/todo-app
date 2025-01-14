@@ -1,0 +1,13 @@
+.everything {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+}
+
+body {
+    background-image: url("todolist2.jpg");
+    background-repeat: space;
+    background-size: 5%;
+  }
